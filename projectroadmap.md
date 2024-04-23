@@ -1,0 +1,3 @@
+- [ ] One of us will try to find out why we cannot import keyboard on vscode.
+- [ ] Make sure code works 
+- [ ] See how the game looks and try to make it more aesthetically pleasing.

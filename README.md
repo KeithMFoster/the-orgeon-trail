@@ -5,3 +5,5 @@ In 1971 a text-based strategy game was developed by Don Rawitsch, Bill Heinemann
 Most game players will remember the video game made famous with the Apple II and other computers of the era. Not many will remember that this game was originally a text-based game played on a teletype. This game version is the one I played in the late 1970s from my days in High School.
 
 The version that I ported over to Python is the source code of the teletype version. It was written in Fortran and later converted over to Basic. The most significant obstacles in the porting were due to the nonstructured languages that it was written and the conversion to a highly structured language of Python while keeping the look and feel of the original game.
+
+My partner and I will be using this Template of the Famous game The Oregon Trail for a Project for my Application Development class.
